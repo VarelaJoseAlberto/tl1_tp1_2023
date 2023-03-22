@@ -2,6 +2,10 @@
 # Prerequisites
 *.d
 
+# document files
+*.pdf
+*.txt
+
 # Object files
 *.o
 *.ko
